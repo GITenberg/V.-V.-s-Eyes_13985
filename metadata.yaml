@@ -1,0 +1,39 @@
+_repo: V.-V.-s-Eyes_13985
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Crosby, Raymond Moreau
+    alias: Crosby, R. M. (Raymond Moreau)
+    birthdate: 1876
+    deathdate: 1945
+    gutenberg_agent_id: '25177'
+    url: http://www.gutenberg.org/2009/agents/25177
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harrison, Henry Sydnor
+    aliases:
+    - Second, Henry
+    - Harrison, H. S. (Henry Sydnor)
+    birthdate: 1880
+    deathdate: 1930
+    gutenberg_agent_id: '3237'
+    url: http://www.gutenberg.org/2009/agents/3237
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Sydnor_Harrison
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13985'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: V. V.'s Eyes
+url: http://www.gutenberg.org/ebooks/13985
