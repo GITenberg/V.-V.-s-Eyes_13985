@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3237
     wikipedia: http://en.wikipedia.org/wiki/Henry_Sydnor_Harrison
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13985#V.-V.-s-Eyes
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-11-08'
 gutenberg_type: Text
